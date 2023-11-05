@@ -1,0 +1,9 @@
+Tên bánh: Banh Kem Chocolate
+Giá: 50.0
+
+Tên bánh: Banh Mi Gia Lai
+Giá: 3.0
+
+Tên bánh: Banh Kem Trái Cây
+Giá: 12.0
+
